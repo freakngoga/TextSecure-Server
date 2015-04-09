@@ -33,7 +33,7 @@ public class TwilioConfiguration {
   @JsonProperty
   private String number;
 
-  @NotEmpty
+  //@NotEmpty
   @JsonProperty
   private String localDomain;
 
